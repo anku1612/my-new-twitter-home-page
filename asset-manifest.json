@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-new-twitter-home-page/static/css/main.a2654c6d.chunk.css",
-    "main.js": "/my-new-twitter-home-page/static/js/main.9e705d39.chunk.js",
-    "main.js.map": "/my-new-twitter-home-page/static/js/main.9e705d39.chunk.js.map",
+    "main.js": "/my-new-twitter-home-page/static/js/main.746c5886.chunk.js",
+    "main.js.map": "/my-new-twitter-home-page/static/js/main.746c5886.chunk.js.map",
     "runtime~main.js": "/my-new-twitter-home-page/static/js/runtime~main.c0b8497b.js",
     "runtime~main.js.map": "/my-new-twitter-home-page/static/js/runtime~main.c0b8497b.js.map",
     "static/js/2.e1aa95ac.chunk.js": "/my-new-twitter-home-page/static/js/2.e1aa95ac.chunk.js",
     "static/js/2.e1aa95ac.chunk.js.map": "/my-new-twitter-home-page/static/js/2.e1aa95ac.chunk.js.map",
     "index.html": "/my-new-twitter-home-page/index.html",
-    "precache-manifest.226bfd3dc67ce0ce2fc4c5bd93b45114.js": "/my-new-twitter-home-page/precache-manifest.226bfd3dc67ce0ce2fc4c5bd93b45114.js",
+    "precache-manifest.de6c00819893691f979d376f6b36b219.js": "/my-new-twitter-home-page/precache-manifest.de6c00819893691f979d376f6b36b219.js",
     "service-worker.js": "/my-new-twitter-home-page/service-worker.js",
     "static/css/main.a2654c6d.chunk.css.map": "/my-new-twitter-home-page/static/css/main.a2654c6d.chunk.css.map",
     "static/media/logo.svg": "/my-new-twitter-home-page/static/media/logo.5d5d9eef.svg"
