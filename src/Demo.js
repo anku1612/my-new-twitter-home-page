@@ -34,7 +34,7 @@ class Demo extends Component {
 
   search(text) {
     console.log(text);
-    fetch("http://localhost:3000/tweets?text_like=" + text)
+    fetch("http://13.232.242.50:33138/tweets?text_like=" + text)
       .then(response => response.json())
       .then(data => {
         console.log("getting tweets here ");
@@ -48,7 +48,7 @@ class Demo extends Component {
   }
   search(name) {
     console.log(name);
-    fetch("http://localhost:3000/tweets?text_like=" + name)
+    fetch("http://13.232.242.50:33138/tweets?text_like=" + name)
       .then(response => response.json())
       .then(data => {
         console.log("getting tweets here ");
@@ -62,7 +62,7 @@ class Demo extends Component {
   }
 
   getTweets(pagenumber) {
-    fetch("http://localhost:3000/tweets?_page=" + pagenumber + "&limit=10")
+    fetch("http://13.232.242.50:33138/tweets?_page=" + pagenumber + "&limit=10")
       .then(response => response.json())
       .then(data => {
         console.log("getting tweets here ");
